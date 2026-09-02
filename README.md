@@ -1,2 +1,6 @@
 # Exercicio_Aula_3_Estruturas_De_Dados
-Exercicio ref a aula 3 do dia 26/08/2026
+
+UC: Estruturas de dados e analise de algoritmos
+
+Nome: Nicole Cavagnino Jardim
+RA: 172313373
